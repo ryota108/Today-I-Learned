@@ -12,7 +12,7 @@ React Hook Form を使えば useState や useRef など煩雑なステート管�
 
 
 ```javascript
-mport { useForm } from 'react-hook-form';
+import { useForm } from 'react-hook-form';
 
 function App() {
   const { register, handleSubmit } = useForm();
